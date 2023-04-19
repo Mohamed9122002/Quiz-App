@@ -1,0 +1,20 @@
+<!-- create  JSON Object For Questions
+Start Creating HTML Markup 
+Add Dummy Data
+Create The Styling 
+Fetch Number Of Questions From JSON Object
+Show Questions Count + Questions Category
+Show The Number Of Bullets Depend on Questions Count 
+Set The Number For The Right and Wrong Answer 
+Create Countdown Timer 
+Fetch The Questions From The JSON Object
+Show First Questions 
+Check Answer And Hid Questions Then Show Next One
+IF The time end mark the questions as Wrong and show next questions
+Add class on bullets after answering the questions
+If questions finished show the result
+
+Ideas
+Many JSON object and choose language
+Add Many Question and chose only 10 Randomly 
+Randomize answers (shuffle function) -->
